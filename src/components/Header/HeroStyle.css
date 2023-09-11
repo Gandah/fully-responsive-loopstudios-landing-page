@@ -1,0 +1,13 @@
+
+.hero-background{
+    background-image: url(/desktop/image-hero.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-background-mobile{
+    background-image: url(/mobile/image-hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
