@@ -16,7 +16,6 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -29,12 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop](./screenshots/screenshot-desktop.png)
+![Mobile](./screenshots/screenshot-mobile.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Gandah/loopstudios-landing-page.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repo](https://github.com/Gandah/loopstudios-landing-page.git)
+- Live Site URL: [Visit Site](https://loopstudios-landing-page-virid-gamma.vercel.app/)
 
 ### Built with
 
@@ -51,7 +51,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [resource](https://moderncss.dev/) - This helped me keep my footer at the bottom.
+- [ModernCss](https://moderncss.dev/) - This helped me build my footer.
 
 ## Author
 
